@@ -1,0 +1,19 @@
+#新增特殊渠道过滤内容（国内外主流媒体数据分析、APP数据分析等、广告投放数据分析）
+#流媒体数据分析过滤
+DOMAIN,cws.conviva.com
+DOMAIN,analytics
+#DOMAIN,access-sngapm.qcloud.com
+
+#测试证书获取是否导致缓慢问题
+#参考 https://support.apple.com/zh-cn/HT210060
+#DOMAIN,ocsp.apple.com
+#DOMAIN,ocsp.digicert.com
+#DOMAIN,crl.apple.com
+#DOMAIN,crl.entrust.net
+#DOMAIN,crl3.digicert.com
+#DOMAIN,crl4.digicert.com
+#DOMAIN,ocsp.entrust.net
+#DOMAIN,ocsp.verisign.net
+#DOMAIN,ocsp2.globalsign.com
+#DOMAIN,ocsp.globalsign.com
+#DOMAIN,statuse.digitalcertvalidation.com

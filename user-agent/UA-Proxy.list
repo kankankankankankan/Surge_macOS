@@ -1,0 +1,40 @@
+//LINE & DECO
+USER-AGENT,LineDeco
+USER-AGENT,*Line*
+USER-AGENT,*LINE*
+USER-AGENT,*LI*
+USER-AGENT,aceApps*
+
+//macOS brew
+USER-AGENT,Homebrew*
+
+//OneDrive
+USER-AGENT,OneDrive
+
+//List
+USER-AGENT,Getflix*
+USER-AGENT,TuneIn%20Radio*
+USER-AGENT,Musixmatch*
+USER-AGENT,mtv* //mtv
+USER-AGENT,*AVnight*
+USER-AGENT,SettingSwift*
+USER-AGENT,NaverTV*
+USER-AGENT,*Musixmatch*
+USER-AGENT,ProjectGo*
+USER-AGENT,Prompt*
+USER-AGENT,TikTok*
+USER-AGENT,Anyplex* //Video
+
+USER-AGENT,ProjectGo*
+USER-AGENT,Vevo*
+
+USER-AGENT,Hampton* //Fullscreen
+USER-AGENT,*AVnight* // AVN
+USER-AGENT,SettingSwift*
+USER-AGENT,Spotify* // Spotify
+USER-AGENT,*Musixmatch*
+USER-AGENT,WhatsApp* // WhatsApp
+USER-AGENT,eBay* // ebay
+USER-AGENT,mtv* // mtv
+
+USER-AGENT,com.apple.trustd* //OCSP

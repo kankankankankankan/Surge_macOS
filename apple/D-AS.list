@@ -1,0 +1,34 @@
+DOMAIN,apps.apple.com // iTunes App
+DOMAIN,swscan.apple.com
+DOMAIN,apsu.apple.com // TC update
+DOMAIN,setup.icloud.com
+DOMAIN,xp.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,music.apple.com
+DOMAIN,suconfig.apple.com
+DOMAIN,hls.itunes-apple.com.akadns.net
+DOMAIN,xp.itunes-apple.com.akadns.net
+DOMAIN,gsa.apple.com.akadns.net
+
+#ATV
+DOMAIN,gdmf.apple.com // appletv update
+DOMAIN,bpapi.apple.com // appletv update
+DOMAIN,appldnld.apple.com // appletv update
+DOMAIN,sylvan.apple.com // appletv screen
+DOMAIN,lcdn-locator.apple.com
+
+#macOS
+DOMAIN,swcdn.apple.com //在线安装
+DOMAIN,swscan.apple.com //在线安装
+
+DOMAIN,lcdn-registration.apple.com
+DOMAIN,guzzoni.apple.com
